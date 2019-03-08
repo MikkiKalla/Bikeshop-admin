@@ -1,0 +1,619 @@
+[
+  {
+    "Product_id": "5c8245510003ed5f6d04eb89",
+    "Model": "Permadyne",
+    "Model_id": 18,
+    "Name": "Jayne",
+    "Category": {
+      "id": 3,
+      "name": "Fixie"
+    },
+    "Group": "Gender.here",
+    "Qty": 1,
+    "Sizes": [
+      [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ]
+    ],
+    "Price": "2,456",
+    "Status": false,
+    "picture": "img/hero-cykle.jpg",
+    "Product_info": "Aliquip ipsum quis ullamco laborum sit laboris est Lorem laborum. Magna est Lorem pariatur dolore eu aute aliqua deserunt voluptate sunt reprehenderit aute sit. Dolore in laboris non nisi ipsum tempor et voluptate consequat elit consequat qui. Eiusmod nisi laboris et ut nisi nulla excepteur ullamco ut dolore in ex exercitation est.",
+    "Order": {
+      "Ordered_by": 121,
+      "status": " false",
+      "date": "Sunday, October 25, 2015 3:07 AM"
+    },
+    "tags": [
+      "cillum",
+      "velit",
+      "ut",
+      "officia",
+      "aute"
+    ]
+  },
+  {
+    "Product_id": "5c824551c4e50d1be4dfae5f",
+    "Model": "Isotrack",
+    "Model_id": 69,
+    "Name": "Collins",
+    "Category": {
+      "id": 3,
+      "name": "Fixie"
+    },
+    "Group": "Gender.here",
+    "Qty": 1,
+    "Sizes": [
+      [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ]
+    ],
+    "Price": "2,179",
+    "Status": true,
+    "picture": "img/hero-cykle.jpg",
+    "Product_info": "Labore reprehenderit ex ad consequat. Ullamco sit magna occaecat magna adipisicing aliqua exercitation velit irure aliqua esse eu. Excepteur consequat aliqua consequat sit in ex occaecat minim do. Elit deserunt do consequat dolore nulla nisi duis id nulla proident. Consectetur nisi commodo id officia veniam consectetur in. Laboris eiusmod aliqua ullamco ad eu tempor non.",
+    "Order": {
+      "Ordered_by": 553,
+      "status": " true",
+      "date": "Sunday, March 2, 2014 12:29 AM"
+    },
+    "tags": [
+      "labore",
+      "exercitation",
+      "ullamco",
+      "irure",
+      "sunt"
+    ]
+  },
+  {
+    "Product_id": "5c824551fa651e1bfd818b5b",
+    "Model": "Mitroc",
+    "Model_id": 71,
+    "Name": "Giles",
+    "Category": {
+      "id": 15,
+      "name": "Racer"
+    },
+    "Group": "Gender.here",
+    "Qty": 1,
+    "Sizes": [
+      [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ]
+    ],
+    "Price": "1,506",
+    "Status": false,
+    "picture": "img/hero-cykle.jpg",
+    "Product_info": "Minim duis incididunt est incididunt esse do exercitation. Enim reprehenderit irure eu aute commodo et culpa duis consequat. Consequat occaecat elit do aliquip. Sit laborum ad esse velit consectetur sit veniam sit irure cupidatat irure in duis qui. Fugiat eiusmod esse nulla officia magna eiusmod esse labore sint fugiat proident. Et incididunt occaecat do quis officia pariatur dolore duis sint deserunt reprehenderit ad pariatur elit. Ea ex consequat cupidatat reprehenderit qui ullamco.",
+    "Order": {
+      "Ordered_by": 132,
+      "status": " true",
+      "date": "Wednesday, October 1, 2014 2:44 PM"
+    },
+    "tags": [
+      "culpa",
+      "dolor",
+      "dolore",
+      "eiusmod",
+      "officia"
+    ]
+  },
+  {
+    "Product_id": "5c824551a5f155e7eaac3c4d",
+    "Model": "Uniworld",
+    "Model_id": 41,
+    "Name": "Graciela",
+    "Category": {
+      "id": 15,
+      "name": "Racer"
+    },
+    "Group": "Gender.here",
+    "Qty": 1,
+    "Sizes": [
+      [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ]
+    ],
+    "Price": "1,571",
+    "Status": true,
+    "picture": "img/hero-cykle.jpg",
+    "Product_info": "Cupidatat est aute ex mollit in eu incididunt aute incididunt reprehenderit. Lorem commodo nulla commodo id velit. In ex ea aliquip Lorem proident sit. Ut nostrud incididunt in aliquip proident. Culpa tempor consectetur consectetur ipsum deserunt dolore.",
+    "Order": {
+      "Ordered_by": 107,
+      "status": " true",
+      "date": "Friday, October 14, 2016 8:15 PM"
+    },
+    "tags": [
+      "consequat",
+      "ad",
+      "qui",
+      "sunt",
+      "aliqua"
+    ]
+  },
+  {
+    "Product_id": "5c8245518b46e0f74e4c28e9",
+    "Model": "Unq",
+    "Model_id": 26,
+    "Name": "Marisa",
+    "Category": {
+      "id": 5,
+      "name": "City bike"
+    },
+    "Group": "Gender.here",
+    "Qty": 1,
+    "Sizes": [
+      [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ]
+    ],
+    "Price": "1,541",
+    "Status": true,
+    "picture": "img/hero-cykle.jpg",
+    "Product_info": "Sit minim deserunt minim laboris ipsum reprehenderit nostrud velit esse ea. Ipsum eiusmod labore exercitation aliqua ad consequat commodo. Reprehenderit dolor eu qui adipisicing velit qui. Magna commodo sit sunt culpa magna id aliqua veniam qui sunt amet quis.",
+    "Order": {
+      "Ordered_by": 479,
+      "status": " false",
+      "date": "Friday, April 29, 2016 5:15 PM"
+    },
+    "tags": [
+      "ad",
+      "duis",
+      "amet",
+      "mollit",
+      "ad"
+    ]
+  },
+  {
+    "Product_id": "5c82455129a10447d0d65cbd",
+    "Model": "Talendula",
+    "Model_id": 92,
+    "Name": "Kristie",
+    "Category": {
+      "id": 15,
+      "name": "Racer"
+    },
+    "Group": "Gender.here",
+    "Qty": 1,
+    "Sizes": [
+      [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ]
+    ],
+    "Price": "1,313",
+    "Status": false,
+    "picture": "img/hero-cykle.jpg",
+    "Product_info": "Laboris veniam excepteur velit magna enim elit sit laborum dolor proident. Est enim eu Lorem nulla et minim quis dolore sint do est pariatur magna. Consequat sunt cillum in anim id. Magna minim voluptate ipsum amet quis eu in nulla consectetur dolore ex. Adipisicing reprehenderit duis dolore minim ut aliqua aliqua labore est sit Lorem deserunt ea aliqua. Velit adipisicing duis deserunt est eiusmod ex esse sint reprehenderit ullamco.",
+    "Order": {
+      "Ordered_by": 343,
+      "status": " false",
+      "date": "Friday, March 23, 2018 4:25 PM"
+    },
+    "tags": [
+      "fugiat",
+      "non",
+      "aliqua",
+      "velit",
+      "eu"
+    ]
+  },
+  {
+    "Product_id": "5c8245514d0921df17eed06e",
+    "Model": "Eyewax",
+    "Model_id": 9,
+    "Name": "Suzette",
+    "Category": {
+      "id": 5,
+      "name": "City bike"
+    },
+    "Group": "Gender.here",
+    "Qty": 1,
+    "Sizes": [
+      [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ]
+    ],
+    "Price": "3,778",
+    "Status": false,
+    "picture": "img/hero-cykle.jpg",
+    "Product_info": "Quis sunt laboris magna laboris est Lorem cupidatat deserunt do sunt. Dolor ea dolor commodo magna nisi nisi veniam nostrud culpa in adipisicing. Excepteur ad magna quis aute non dolore.",
+    "Order": {
+      "Ordered_by": 559,
+      "status": " true",
+      "date": "Sunday, September 25, 2016 5:00 PM"
+    },
+    "tags": [
+      "nostrud",
+      "reprehenderit",
+      "laborum",
+      "tempor",
+      "eiusmod"
+    ]
+  },
+  {
+    "Product_id": "5c82455177ef89ba54686a92",
+    "Model": "Ecratic",
+    "Model_id": 15,
+    "Name": "Penelope",
+    "Category": {
+      "id": 15,
+      "name": "Racer"
+    },
+    "Group": "Gender.here",
+    "Qty": 1,
+    "Sizes": [
+      [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ]
+    ],
+    "Price": "3,669",
+    "Status": false,
+    "picture": "img/hero-cykle.jpg",
+    "Product_info": "Ipsum sint id Lorem et laborum. Consectetur Lorem dolore amet esse pariatur amet in id. Ipsum quis aliqua velit cillum velit. Id do laborum excepteur excepteur commodo sint cillum ad nostrud ex irure qui enim dolor. Ex occaecat proident reprehenderit sint non aute Lorem eiusmod aute. Aute amet deserunt laboris eu.",
+    "Order": {
+      "Ordered_by": 625,
+      "status": " false",
+      "date": "Saturday, June 11, 2016 9:25 PM"
+    },
+    "tags": [
+      "quis",
+      "commodo",
+      "exercitation",
+      "aliquip",
+      "ipsum"
+    ]
+  },
+  {
+    "Product_id": "5c824551b2aa81997cba1d2c",
+    "Model": "Enquility",
+    "Model_id": 31,
+    "Name": "Diann",
+    "Category": {
+      "id": 5,
+      "name": "City bike"
+    },
+    "Group": "Gender.here",
+    "Qty": 1,
+    "Sizes": [
+      [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ]
+    ],
+    "Price": "3,735",
+    "Status": false,
+    "picture": "img/hero-cykle.jpg",
+    "Product_info": "Tempor ullamco aute culpa sunt quis minim nulla. Non minim cillum reprehenderit veniam elit duis quis irure consequat consequat elit. Nostrud do minim nulla culpa minim.",
+    "Order": {
+      "Ordered_by": 623,
+      "status": " false",
+      "date": "Monday, December 28, 2015 1:44 AM"
+    },
+    "tags": [
+      "dolore",
+      "quis",
+      "cupidatat",
+      "adipisicing",
+      "Lorem"
+    ]
+  },
+  {
+    "Product_id": "5c824551a75841ca678698e1",
+    "Model": "Fanfare",
+    "Model_id": 26,
+    "Name": "Holt",
+    "Category": {
+      "id": 5,
+      "name": "City bike"
+    },
+    "Group": "Gender.here",
+    "Qty": 1,
+    "Sizes": [
+      [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ]
+    ],
+    "Price": "3,385",
+    "Status": false,
+    "picture": "img/hero-cykle.jpg",
+    "Product_info": "Labore duis id nisi Lorem dolor consectetur Lorem duis enim id. Labore ut laborum irure fugiat anim. Pariatur exercitation non mollit minim enim nulla voluptate dolore ullamco magna nulla. Non elit velit pariatur ea adipisicing id nostrud fugiat sunt voluptate tempor. Sit voluptate ullamco cupidatat velit fugiat. Ut dolor id Lorem cupidatat anim cupidatat sit.",
+    "Order": {
+      "Ordered_by": 353,
+      "status": " true",
+      "date": "Monday, March 3, 2014 10:08 PM"
+    },
+    "tags": [
+      "enim",
+      "commodo",
+      "id",
+      "ex",
+      "magna"
+    ]
+  },
+  {
+    "Product_id": "5c824551e4a05a76e17be1a3",
+    "Model": "Gology",
+    "Model_id": 14,
+    "Name": "Gretchen",
+    "Category": {
+      "id": 3,
+      "name": "Fixie"
+    },
+    "Group": "Gender.here",
+    "Qty": 1,
+    "Sizes": [
+      [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ]
+    ],
+    "Price": "1,132",
+    "Status": false,
+    "picture": "img/hero-cykle.jpg",
+    "Product_info": "Quis anim ex quis consectetur Lorem mollit minim veniam. Exercitation ex nulla commodo incididunt nostrud deserunt sunt eu laborum cupidatat minim. Tempor nulla laborum exercitation id voluptate quis velit. Laborum reprehenderit ea quis officia cupidatat exercitation mollit amet anim magna esse cupidatat sunt tempor. Sunt magna proident aute velit ipsum nisi ex eiusmod labore sint proident aute consequat.",
+    "Order": {
+      "Ordered_by": 631,
+      "status": " true",
+      "date": "Tuesday, November 8, 2016 2:13 PM"
+    },
+    "tags": [
+      "mollit",
+      "quis",
+      "elit",
+      "fugiat",
+      "do"
+    ]
+  },
+  {
+    "Product_id": "5c824551abb87397a27b4aba",
+    "Model": "Hopeli",
+    "Model_id": 79,
+    "Name": "Brown",
+    "Category": {
+      "id": 15,
+      "name": "Racer"
+    },
+    "Group": "Gender.here",
+    "Qty": 1,
+    "Sizes": [
+      [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ]
+    ],
+    "Price": "1,937",
+    "Status": true,
+    "picture": "img/hero-cykle.jpg",
+    "Product_info": "Proident reprehenderit commodo laborum aliqua ex excepteur dolore ex tempor dolor Lorem pariatur anim et. Proident ut dolor enim aliquip commodo laboris aute ad. Mollit excepteur elit excepteur incididunt commodo fugiat. Et irure eu eu consectetur culpa minim aliquip labore voluptate. Incididunt mollit officia commodo tempor quis exercitation. Pariatur do eu culpa labore mollit in ullamco fugiat amet ex veniam ullamco ut. Dolor consectetur occaecat quis officia proident id culpa.",
+    "Order": {
+      "Ordered_by": 571,
+      "status": " true",
+      "date": "Wednesday, May 24, 2017 8:03 PM"
+    },
+    "tags": [
+      "in",
+      "consequat",
+      "aliqua",
+      "quis",
+      "id"
+    ]
+  },
+  {
+    "Product_id": "5c824551c26f33e6dca0ba0c",
+    "Model": "Namebox",
+    "Model_id": 6,
+    "Name": "Carpenter",
+    "Category": {
+      "id": 5,
+      "name": "City bike"
+    },
+    "Group": "Gender.here",
+    "Qty": 1,
+    "Sizes": [
+      [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ]
+    ],
+    "Price": "1,866",
+    "Status": false,
+    "picture": "img/hero-cykle.jpg",
+    "Product_info": "Laborum dolore cupidatat magna ullamco Lorem culpa aliquip ullamco eu laboris excepteur mollit qui tempor. Esse minim amet excepteur eu nostrud cupidatat nostrud anim id. Ipsum ea Lorem id ea irure anim. Fugiat Lorem tempor quis velit veniam dolor anim mollit laborum cupidatat.",
+    "Order": {
+      "Ordered_by": 298,
+      "status": " false",
+      "date": "Monday, June 19, 2017 10:33 PM"
+    },
+    "tags": [
+      "fugiat",
+      "duis",
+      "minim",
+      "ipsum",
+      "veniam"
+    ]
+  },
+  {
+    "Product_id": "5c824551814a35f3e0d1c6ab",
+    "Model": "Bedder",
+    "Model_id": 22,
+    "Name": "Castro",
+    "Category": {
+      "id": 3,
+      "name": "Fixie"
+    },
+    "Group": "Gender.here",
+    "Qty": 1,
+    "Sizes": [
+      [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ]
+    ],
+    "Price": "1,316",
+    "Status": true,
+    "picture": "img/hero-cykle.jpg",
+    "Product_info": "Qui eiusmod reprehenderit sunt et magna pariatur esse eu proident velit laboris consequat et sit. Quis sint cupidatat ullamco deserunt consectetur nisi irure pariatur mollit ad adipisicing ea deserunt. Adipisicing ipsum Lorem fugiat nulla consequat laborum minim tempor dolore. Aliquip laborum Lorem laboris eiusmod officia magna aute commodo. Non laboris mollit in fugiat sit aliqua ea culpa nulla sint qui commodo Lorem. Esse irure voluptate in ad consequat officia sit Lorem sit.",
+    "Order": {
+      "Ordered_by": 457,
+      "status": " true",
+      "date": "Thursday, October 5, 2017 2:03 AM"
+    },
+    "tags": [
+      "velit",
+      "do",
+      "consectetur",
+      "minim",
+      "exercitation"
+    ]
+  }
+]
+
+
+//FIRST ITERATION OF DATA
+
+  // "Individual Product",
+  // {
+  //   "Product_id":"ac234897",---
+  //   "Model": "Specialized",---
+  //   "Model_id": 55,---
+  //   "Category": {---
+  //     id:"123",---
+  //     "name":"Racer"---
+  //   }---
+  //   "Name":"Marvel T2 Athena",--
+  //   "Group": "Male",---
+  //   "Qty": 1,---
+  //   "Sizes": [---
+  //     45,---
+  //     55,---
+  //     61---
+  //   ],---
+  //   "Price":"4500",--
+  //   "Satus": "1 /// 0 = Unavailable, 1 = Available",--
+  //   //////////Optional/////////////
+  //   "Wheel_size": 28,
+  //   "Frame_set":{
+  //     "Frame":"Carbon Ultima BT",
+  //     "Fork":"Onda 2V C"
+  //   }
+
+  // },
+
+//   "Product Group data",
+//   {
+//     "Category_id": 5,
+//     "Category_name":"Racer",
+//     "Qty": 24,
+//     "Order": {
+//       "Ordered_by": "01148 /// (Employee ID)",
+//       "Order_status":"0 OR 1 /// (Complete/Incomplete",
+//       "Order_date": "20/01/2019"
+//     }
+//   }
+// ]
+
+
+//DATA GENERATOR ON https://next.json-generator.com/4kB8xMi8L
+
+
+// [
+//   {
+//     'repeat(5, 10)': {
+//       Product_id: '{{objectId()}}',
+//       Model: '{{company()}}',
+//       Model_id: '{{integer(1, 100)}}',
+//       Name: '{{firstName()}}',
+//       Category: {
+//       	id:'{{integer(1, 100)}}',
+//         name:'{{surname()}}'
+//       },
+//       Group:'Gender.here',
+//       Qty: 1,
+//       Sizes: [range(10)],
+//       Price:'{{floating(1000, 4000, 2, "0,0.00DKK")}}',
+//       Status:'{{bool()}}',
+//       picture: 'imag',
+    
+//       Product_info: '{{lorem(1, "paragraphs")}}',
+//       Order: {
+//       	Ordered_by:'',
+//         status:' {{bool()}}',
+//       	date: '{{moment(this.date(new Date(2014, 0, 1), new Date())).format("LLLL")}}'
+//       },
+
+//       tags: [
+//         {
+//           'repeat(5)': '{{lorem(1, "words")}}'
+//         }
+//       ],
+
+//     }
+//   }
+// ]
+
+
